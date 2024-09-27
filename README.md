@@ -2,14 +2,10 @@
 
 **This is a simple tool to store all your frequently using commands (npm start, dotnet run, etc..)**
 
-Download it from:
-https://github.com/karthikn1720/Process-Manager/releases/
-
 To Save your command:
 Enter the Name of the command, path and the command to execute. Save it
 
 ![image](https://github.com/karthikn1720/Process-Manager/assets/125857285/190c47a1-74c8-4215-8fec-7d5dc6e42048)
-
 
 To run or stop your command:
 Click run to run it and Kill to stop it
